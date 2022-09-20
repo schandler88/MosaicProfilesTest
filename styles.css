@@ -1,0 +1,59 @@
+
+.accordion {
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+.styleA {
+  background-color: #4d4785;
+}
+.styleB {
+  background-color: #8c78b8;
+}
+.styleC {
+  background-color: #993880;
+}
+.styleD {
+  background-color: #cc47cc;
+}
+.styleE {
+  background-color: #aba6d1;
+}
+.styleF {
+  background-color: #1c508c;
+}
+.styleG {
+  background-color: #ad1f26;
+}
+.styleH {
+  background-color: #db6b6b;
+}
+.styleI {
+  background-color: #c27038;
+}
+.styleJ {
+  background-color: #c71f54;
+}
+.styleK {
+  background-color: #57aba3;
+}
+
+
